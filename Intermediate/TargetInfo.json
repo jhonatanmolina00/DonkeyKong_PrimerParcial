@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_L02",
+			"Path": "C:\\Users\\ApazaCristofer\\Desktop\\DonkeyKong_L02-master\\DonkeyKong_L02-master\\Source\\DonkeyKong_L02.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_L02Editor",
+			"Path": "C:\\Users\\ApazaCristofer\\Desktop\\DonkeyKong_L02-master\\DonkeyKong_L02-master\\Source\\DonkeyKong_L02Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

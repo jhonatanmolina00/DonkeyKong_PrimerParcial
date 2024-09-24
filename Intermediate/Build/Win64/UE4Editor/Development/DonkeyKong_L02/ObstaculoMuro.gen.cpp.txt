@@ -1,0 +1,7 @@
+C:\Users\ApazaCristofer\Desktop\DonkeyKong_L02-master\DonkeyKong_L02-master\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\Definitions.DonkeyKong_L02.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ApazaCristofer\Desktop\DonkeyKong_L02-master\DonkeyKong_L02-master\Source\DonkeyKong_L02/ObstaculoMuro.h
+C:\Users\ApazaCristofer\Desktop\DonkeyKong_L02-master\DonkeyKong_L02-master\Source\DonkeyKong_L02\Obstaculo.h
+C:\Users\ApazaCristofer\Desktop\DonkeyKong_L02-master\DonkeyKong_L02-master\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\Obstaculo.generated.h
+C:\Users\ApazaCristofer\Desktop\DonkeyKong_L02-master\DonkeyKong_L02-master\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\ObstaculoMuro.generated.h
